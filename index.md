@@ -12,14 +12,14 @@ title: Home
 <div style="text-align: center; max-width: 200px;">
   <img src="assets/member1.jpg" alt="Member 1 photo" width="150" style="border-radius: 50%;">
   <h3>First Last</h3>
-  <p><em>Role or Major</em></p>
+  <p><em>Team 1</em></p>
   <p>A short bio — background, interests, what you're excited to explore in this course.</p>
 </div>
 
 <div style="text-align: center; max-width: 200px;">
   <img src="assets/member2.jpg" alt="Member 2 photo" width="150" style="border-radius: 50%;">
   <h3>First Last</h3>
-  <p><em>Role or Major</em></p>
+  <p><em>Team 2</em></p>
   <p>A short bio — background, interests, what you're excited to explore in this course.</p>
 </div>
 
