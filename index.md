@@ -11,8 +11,8 @@ title: Home
 
 <div style="text-align: center; max-width: 200px;">
   <img src="assets/member1.jpg" alt="Member 1 photo" width="150" style="border-radius: 50%;">
-  <h3>Sabina Hyoju Ahnt</h3>
-  <p><em>Team 1</em></p>
+  <h3>Sabina Hyoju Ahn</h3>
+  <p><em>PhD Candidate, MAT, UCSB</em></p>
   <p>Artist and researcher working with sound, biological systems, and computational media. This site documents motion control experiments, prototyping, and project development for the course.</p>
 </div>
 
