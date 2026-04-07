@@ -19,7 +19,7 @@ Rather than visualizing sound directly, the project focuses on how signal struct
 - A single input signal (LFO or CV) is used
 - The system reinterprets this signal in different ways
 - Each interpretation produces a different drawing style
-“Sound has 4 properties, pitch, loudness, timbre and duration, and silence has one – duration.” For motion in plotters, similar happens on pen up (sound) and pen down. For the motion control of plotter on paper, the properties that matter are either
+
 
 1. The starting point, end point, length of the path, and the shape of the path. 
 2. The starting point, the duration, the direction of movement at particular time of duration, the speed of the movement at particular time of the duration
