@@ -34,7 +34,7 @@ Here we focus on the painting process of the plotter, which is more similar to a
 
 Inspired by metasound from unreal engine and the idea of procedural machine, the system is designed to be a procedural motion synthesizer where as the same signal flow through the system, it generates different motion performance. The procedual map is premeditated, but is to be triggered by the user input and thus making a half-realtime performance.
 
-![Metasound photo](https://cdn2.unrealengine.com/share-img-ue5-early-access-livestream-metasounds-1200x630-990cb66b84cf.jpg)
+![Metasound photo](assets/share-img-ue5-early-access-livestream-metasounds-1200x630-990cb66b84cf.jpg)
 
 ## System Structure
 
