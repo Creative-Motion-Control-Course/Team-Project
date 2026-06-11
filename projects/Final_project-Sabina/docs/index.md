@@ -3,7 +3,7 @@ layout: default
 title: "Project 2"
 ---
 
-# Project 2: Anti Gravity 3D Printer Movement
+# Final Project: 
 
 [View the Project Proposal](proposal.md)
 
