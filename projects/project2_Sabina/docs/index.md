@@ -604,15 +604,15 @@ void report_overhead() {
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Bf_SgmbT00o?si=AKEPtHaDCVTIu3QY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-![Result](assets/P1500254.jpg)
-![Result](assets/P1500255.jpg)
-![Result](assets/P1500256.jpg)
-![Result](assets/P1500257.jpg)
-![Result](assets/P1500258.jpg)
-![Result](assets/P1500257.jpg)
-![Result](assets/P1500258.jpg)
-![Result](assets/P1500259.jpg)
-![Result](assets/P1500260.jpg)
+![Result](assets/P1500254.JPG)
+![Result](assets/P1500255.JPG)
+![Result](assets/P1500256.JPG)
+![Result](assets/P1500257.JPG)
+![Result](assets/P1500258.JPG)
+![Result](assets/P1500257.JPG)
+![Result](assets/P1500258.JPG)
+![Result](assets/P1500259.JPG)
+![Result](assets/P1500260.JPG)
 
 
 ## Reflection
