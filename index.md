@@ -34,7 +34,7 @@ title: Home
 | [Project 1 Proposal](projects/project1_Proposal/docs/) | Modular motion Plotter |
 | [Project 1](projects/project1/docs/) | Modular motion Plotter |
 | [Project 2](projects/project2/docs/) | Anti-Gravity 3D Printer Movement |
-| [Final Project - Sabina](projects/Final_project-Sabina/docs/) | Kinetic Light Traces |
+| [Project2_Sabina](projects/project2_Sabina/docs/) | Kinetic Light Traces |
 
 
 <!-- Add rows as you complete more projects:
