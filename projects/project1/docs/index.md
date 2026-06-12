@@ -5,6 +5,7 @@ title: "Project 1 Report"
 
 # Project 1: Modular Signal Plotter
 
+[View the Project Proposal](proposal_project1.md)
 
 ## Concept
 
