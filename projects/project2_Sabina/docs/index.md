@@ -603,11 +603,6 @@ void report_overhead() {
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Bf_SgmbT00o?si=AKEPtHaDCVTIu3QY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<!--
-<video width="560" controls>
-  <source src="assets/demo-video.mp4" type="video/mp4">
-</video>
--->
 
 ![Result](assets/P1500254.jpg)
 ![Result](assets/P1500255.jpg)
