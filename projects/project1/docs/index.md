@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Project 1 Proposal"
+title: "Project 1 Report"
 ---
 
 # Project 1: Modular Signal Plotter
@@ -127,3 +127,15 @@ Real-time control via modular signal and user input
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yiL8TIoEK8A?si=bw2wV2MGOqTHDAz2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+## Result
+
+### 1st version
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6mfzxHUw9pE?si=wrGuKNeYMVCeKmoU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Final Version
+<iframe width="315" height="560" src="https://youtube.com/shorts/pYiR_zEj2Zo?si=Q-6AA9lwfWN5cIq5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
