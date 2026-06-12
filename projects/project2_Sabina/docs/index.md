@@ -48,7 +48,7 @@ LEDs
 Components from a Creality Ender 3 printer: Motors, Extrusions, gantry wheel plates 
 
 
-![Hardware setup photo](assets/placeholder.jpg)
+![Hardware setup photo](assets/DSC_7665.jpg)
 
 ### Code Overview
 The sculpture is controlled through Stepdance motion generators. Different movement behaviors were tested, including oscillation, continuous rotation, and synchronized patterns. Parameters such as speed and range were adjusted using physical controls to create varying visual effects.
@@ -596,11 +596,12 @@ void report_overhead() {
 
 ## Results
 
-Show your project in action. Embed a video of it working:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6srXsoYSdd0?si=afzlRaO6InUvjWya" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-*Replace the iframe above with your actual video URL, or use a local video:*
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C0NqdqLuidw?si=j1xt3A-cOZrMQ4h_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Bf_SgmbT00o?si=AKEPtHaDCVTIu3QY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <!--
 <video width="560" controls>
@@ -608,6 +609,24 @@ Show your project in action. Embed a video of it working:
 </video>
 -->
 
-## Reflection
+![Result](assets/P1500254.jpg)
+![Result](assets/P1500255.jpg)
+![Result](assets/P1500256.jpg)
+![Result](assets/P1500257.jpg)
+![Result](assets/P1500258.jpg)
+![Result](assets/P1500257.jpg)
+![Result](assets/P1500258.jpg)
+![Result](assets/P1500259.jpg)
+![Result](assets/P1500260.jpg)
 
-What did you learn? What would you do differently?
+
+## Reflection
+My original plan was to create a light calligraphy sculpture using multiple motorized axes moving at different speeds and trajectories. However, several electronic components did not arrive on time, and I did not have enough time to fully develop the project as originally envisioned.
+
+The final sculpture was built primarily from repurposed components of a Creality Ender 3 3D printer, along with a number of custom 3D-printed mounts for the motors and linear slides. One of the most meaningful aspects of the project was taking apart an existing machine and reassembling its components into something entirely different. This process encouraged me to think about reuse, adaptation, and the creative potential of existing materials.
+
+Throughout the project, I learned a great deal about motion control and stepper motor systems. I gained a better understanding of current control and motor tuning to achieve stable movement while preventing the motors from overheating during extended operation.
+
+The original concept also included an energy harvesting system in which the stepper motors would generate electricity to power LEDs, creating a self-powered kinetic light sculpture. Due to limited time and delays in obtaining key electronic components, this system could not be completed within the project timeline. This experience highlighted the importance of prototyping critical subsystems early in the development process and allowing sufficient time for sourcing, testing, and integration.
+
+If I continue developing this project, I would focus on implementing the energy harvesting circuit and expanding the motion system to create more complex light-drawing behaviors. The current prototype establishes a strong foundation for these future developments.
