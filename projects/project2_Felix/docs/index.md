@@ -39,7 +39,7 @@ First I tried mounting only the iphone camera with cardboards and tapes.
 
 Then I built the city model with cardboards, decided it should go in front of the machine.
 
-<iframe width="560" height="315" src="https://youtube.com/shorts/qAtx7Ns-uT8" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/shorts/qAtx7Ns-uT8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Connected stepdance board. The movement of the camera looks promising.
 
@@ -57,7 +57,7 @@ First we took the other Z arm of the ender and the connecting wheels of the othe
 
 Then we found the place to place the stepper motor, and designed the gear and rack mechanism to connect the motor and the arm. We hot glued a tiny ring with the clamping screw to the shaft.
 
-<iframe width="560" height="315" src="https://youtube.com/shorts/w0vBpj5Kxks" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/shorts/w0vBpj5Kxks" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Conneced to stepdance, worked well. Ready for fabrication.
 
@@ -67,7 +67,7 @@ These are all the middle products in iteration.
 
 **Prototyping 3**
 
-<iframe width="560" height="315" src="https://youtube.com/shorts/krHDLqiyBvk" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/shorts/krHDLqiyBvk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 After this I did all the CAD and 3D printed the parts. 
 
@@ -188,9 +188,9 @@ These are the remote series commands. Down, mid and up control the Z, which then
 
 ## Results
 
-<iframe width="560" height="315" src="https://youtu.be/Fuea3KvjHP4" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/Fuea3KvjHP4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://youtu.be/UGfdAK_jXnM" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/UGfdAK_jXnM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <!--
 <video width="560" controls>
