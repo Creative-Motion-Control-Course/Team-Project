@@ -81,53 +81,12 @@ The same input signal is reused in different ways depending on mode:
 <p><strong>state = state + signal × small_factor</strong></p>
 <p><strong>y = state</strong></p>
 
-### 3. Technical Plan
-
-* Use Stepdance for motor control
-* Read analog input from A1
-* Normalize input (0–1 range)
-* Map signal to movement parameters: amplitude, distortion, drift
-* Keep implementation simple and stable 
-
-
 ## Hardware Setup
 * Modular LFO output → attenuated to safe voltage
 * Signal connected to Stepdance A1 input
 * Shared ground between systems 
 
-
-
-## Expected Output
-### 1. Smooth oscillation
-# ~~~~~~~~~~~~~~
-
-
-### 2. Distorted waveform
-# ~~--~~~---~~~
-
-
-### 3. Drifting structure
-# ~
-#  ~~
-#   ~~~
-
-
-
-## Design Goals
-### Specificity
-Designed for oscillatory and signal-driven drawings
-Not suitable for precise geometric output
-
-### Variation
-Different behaviors through mode switching
-Continuous variation from signal changes
-
-### Liveness
-Real-time control via modular signal and user input
-
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yiL8TIoEK8A?si=bw2wV2MGOqTHDAz2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+A small breadboard was used to connect the stepdance board to the output of a modular synthesizer LFO, which was then attenuated to a safe voltage range for the teensy input. The Stepdance board receives this signal on its A1 input, allowing it to be processed by the Teensy and mapped to motion commands for the plotter.
 
 
 ## Result
@@ -136,7 +95,7 @@ Real-time control via modular signal and user input
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6mfzxHUw9pE?si=wrGuKNeYMVCeKmoU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Final Version
-<iframe width="315" height="560" src="https://youtube.com/shorts/pYiR_zEj2Zo?si=Q-6AA9lwfWN5cIq5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="315" height="560" src="https://www.youtube.com/embed/pYiR_zEj2Zo?si=Q-6AA9lwfWN5cIq5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 

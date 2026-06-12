@@ -196,11 +196,6 @@ Presentation of the machine.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UGfdAK_jXnM?si=geAMG_F_H-0Jo7yK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Footage from the camera of the presentation.
-<!--
-<video width="560" controls>
-  <source src="assets/demo-video.mp4" type="video/mp4">
-</video>
--->
 
 ## Reflection
 
