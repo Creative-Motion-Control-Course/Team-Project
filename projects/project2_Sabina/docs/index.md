@@ -611,6 +611,7 @@ The kinetic sculpture is controlled through a set of physical interfaces that al
 - Potentiometer 3 controls the rotational speed of Motor C, which carries the LED light source.
 - Button 1 toggles the continuous rotation servo motor on and off.
 - Button 2 enables or disables the entire kinetic system.
+![Enclosure](assets/DSC_7661.JPG)
 
 
 ## Results
