@@ -1,6 +1,6 @@
 ## Proposal & Mid-point review 
 
-###Concept
+### Concept
 Kinetic Light Traces is a light sculpture that explores the relationship between motion, light, and material transformation. The project uses four stepper motors moving at different speeds and ranges to generate dynamic trajectories in space. LEDs mounted on the moving structure create light traces that become visible through long-exposure photography, producing a form of kinetic light calligraphy.
 
 A second goal of the project is to investigate how existing machines can be reimagined and transformed into new systems. The sculpture is constructed from repurposed components of a Creality Ender 3 3D printer. By disassembling and reconfiguring the printer's mechanical and electronic components, the project explores alternative motion systems while providing an opportunity to learn about motor control, motion programming, and kinetic design.
