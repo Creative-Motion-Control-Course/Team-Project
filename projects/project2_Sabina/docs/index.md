@@ -23,6 +23,11 @@ Several mechanical configurations were explored before settling on a radial arra
 
 The final design consists of four motorized arms, each carrying an LED module. As the motors move, electrical energy is harvested and temporarily stored in a supercapacitor, allowing the LEDs to remain illuminated even during brief pauses in motion.
 
+
+
+![Modeling](assets/Model.png)
+![Modeling](assets/Model1.png)
+
 ## Implementation
 The final prototype was developed using the Stepdance framework running on a Teensy 4.1 microcontroller. The mechanical structure was constructed from repurposed components of a Creality Ender 3 FDM 3D printer, including linear motion elements, aluminum extrusions, and stepper motors. Four stepper motors were arranged in a radial configuration to create coordinated kinetic movements.
 
@@ -593,6 +598,20 @@ void report_overhead() {
 }
 ㅡ 
 ```
+
+## User Control
+![Enclosure](assets/enclosure.png)
+
+The kinetic sculpture is controlled through a set of physical interfaces that allow real-time adjustment of movement behaviors:
+
+- Encoder 1 controls the movement speed of Motor A.
+- Encoder 2 controls the movement speed of Motor B.
+- Potentiometer 1 adjusts the travel range of Motor A.
+- Potentiometer 2 adjusts the travel range of Motor B.
+- Potentiometer 3 controls the rotational speed of Motor C, which carries the LED light source.
+- Button 1 toggles the continuous rotation servo motor on and off.
+- Button 2 enables or disables the entire kinetic system.
+
 
 ## Results
 
