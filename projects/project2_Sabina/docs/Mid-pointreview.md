@@ -46,9 +46,9 @@ Reused from Disassembled Ender 3:
 
 
 
-![sketch](assets/IMG_7665 copy.JPG)
-![sketch](assets/IMG_7666 copy.JPG)
-![sketch](assets/IMG_7670 copy.JPG)
+![sketch](assets/IMG_7665copy.JPG)
+![sketch](assets/IMG_7666copy.JPG)
+![sketch](assets/IMG_7670copy.JPG)
 
 
 To Be Acquired:
@@ -69,7 +69,7 @@ The LED can be mounted on the rotating disk using a slip ring to prevent cable t
 ###Sketch
 
 ![sketch](assets/kinetic_light_traces_xyz_labeled.svg)
-![sketch](assets/IMG_7651 copy.JPG)
+![sketch](assets/IMG_7651copy.JPG)
 
 
 
