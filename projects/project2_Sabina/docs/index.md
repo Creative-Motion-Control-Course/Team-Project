@@ -5,16 +5,19 @@ title: "Final Project - Sabina"
 
 # Final Project: Kinetic Light Traces
 
+[Proposal & Mid-point review] (Mid-point review.md)
 
+[Project 2 Peer Review] (PeerReview.md)
 
 ## Concept
 
-Kinetic Light Traces is a kinetic sculpture built from disassembled parts of a Creality Ender 3 FDM 3D printer and controlled through the Stepdance framework. Four stepper motors are arranged in a radial structure. As the motors move, they generate electricity that powers LEDs mounted on each moving axis. No external power source is used.
+Kinetic Light Traces is a kinetic sculpture built from repurposed components of a Creality Ender 3 FDM 3D printer and controlled through the Stepdance framework. The sculpture uses four stepper motors arranged in a radial configuration to generate coordinated movements and dynamic spatial patterns. LEDs attached to the moving structure emphasize these trajectories, creating light traces that become particularly visible through long-exposure photography.
 
-Each motor acts both as an actuator and as a generator. Electricity produced by the motors is converted through a bridge rectifier and stored in a supercapacitor, allowing the LEDs to remain lit briefly after movement slows or stops.
+The project explores how movement can be translated into visual marks in space, creating a form of kinetic light calligraphy. By assigning different speeds and motion ranges to each axis, the sculpture produces continuously evolving patterns that reveal the temporal and spatial qualities of motion.
 
-The project investigates how motion can become visible through its own energy. Rather than using electricity from an external source, the work transforms mechanical movement directly into light, revealing the relationship between action, energy generation, and perception. The resulting light traces create a temporary visual record of movement in space.
+A second objective of the project is to investigate the creative reuse of existing machines. Rather than constructing a system from entirely new components, the project repurposes and reconfigures parts from a discarded 3D printer into a new kinetic mechanism. Through this process, the work examines how existing technologies can be transformed into new artistic and functional systems.
 
+The original concept also included an energy harvesting system in which the stepper motors would function both as actuators and generators. Inspired by the principle of a bicycle dynamo, the generated electrical energy would be rectified, stored in a supercapacitor, and used to power the LEDs mounted on the sculpture. Due to time constraints and delays in obtaining key electronic components, this system was not implemented in the final prototype. However, the concept remains an important direction for future development toward a self-powered kinetic light sculpture.
 
 ## Design
 The project began with experiments using stepper motors both as actuators and generators. Initial tests focused on measuring voltage output from motor movement and evaluating methods for storing generated energy.
