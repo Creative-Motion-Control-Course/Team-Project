@@ -40,8 +40,8 @@ By combining linear translation and rotation, the system produces complex trajec
 ![Modeling](assets/Model1.png)
 
 ### Mount desgin
-![Modeling](assets/IMG_7683 copy.JPG)
-![Modeling](assets/IMG_7691 copy.JPG)
+![Modeling](assets/IMG_7683 copy.jpg)
+![Modeling](assets/IMG_7691 copy.jpg)
 
 
 
@@ -71,7 +71,7 @@ Although the self-powered lighting system remains unimplemented, the current pro
 * Components from a Creality Ender 3 printer: Motors, Extrusions, gantry wheel plates 
 
 
-![Hardware setup photo](assets/DSC_7665.jpg)
+![Hardware setup photo](assets/DSC_7665.JPG)
 
 ### Code Overview
 The system is controlled through the Stepdance on a Teensy 4.1. The code manages three stepper motor outputs and one continuous rotation servo. Each motor has a different movement behavior, allowing the sculpture to combine linear bouncing motion, exact range-based oscillation, continuous spinning, and servo-based rotation.
