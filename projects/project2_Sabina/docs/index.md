@@ -40,8 +40,8 @@ By combining linear translation and rotation, the system produces complex trajec
 ![Modeling](assets/Model1.png)
 
 ### Mount desgin
-![Modeling](assets/IMG_7683 copy.jpg)
-![Modeling](assets/IMG_7691 copy.jpg)
+![Mount](assets/IMG_7683copy.jpg)
+![Mount](assets/IMG_7691copy.jpg)
 
 
 
