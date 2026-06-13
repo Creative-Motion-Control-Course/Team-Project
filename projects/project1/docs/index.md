@@ -92,10 +92,10 @@ A small breadboard was used to connect the stepdance board to the output of a mo
 ## Result
 
 ### 1st version
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6mfzxHUw9pE?si=wrGuKNeYMVCeKmoU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6mfzxHUw9pE?si=fj2jX5X2K90Brn7Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Final Version
-<iframe width="315" height="560" src="https://www.youtube.com/embed/pYiR_zEj2Zo?si=Q-6AA9lwfWN5cIq5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pYiR_zEj2Zo?si=3K0KhyvVkor99svp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
