@@ -66,7 +66,7 @@ The LED can be mounted on the rotating disk using a slip ring to prevent cable t
 
 ![sketch](assets/slipringuse.png)
 
-###Sketch
+### Sketch
 
 ![sketch](assets/kinetic_light_traces_xyz_labeled.svg)
 ![sketch](assets/IMG_7651copy.JPG)
