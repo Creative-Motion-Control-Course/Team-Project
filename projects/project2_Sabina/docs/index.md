@@ -5,9 +5,9 @@ title: "Final Project - Sabina"
 
 # Final Project: Kinetic Light Traces
 
-[Proposal & Mid-point review] (Mid-point review.md)
+[Proposal & Mid-point Review](Mid-pointreview.md)
 
-[Project 2 Peer Review] (PeerReview.md)
+[Project 2 Peer Review](PeerReview.md)
 
 ## Concept
 
