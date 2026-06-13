@@ -44,6 +44,13 @@ Reused from Disassembled Ender 3:
 * GT2 timing belts, GT2 pulleys (20T), V-slot wheels and carriage plates x2
 * Stepdance Driver Module (Teensy 4.1 + TMC2209 x4)
 
+
+
+![sketch](assets/IMG_7665 copy.JPG)
+![sketch](assets/IMG_7666 copy.JPG)
+![sketch](assets/IMG_7670 copy.JPG)
+
+
 To Be Acquired:
 
 * 2020 V-slot rail 400mm x2, V-slot gantry carriage plates x2
@@ -52,7 +59,23 @@ To Be Acquired:
 * Bridge rectifier modules x4, 1N4007 diodes, 1F 5.5V supercapacitors x4
 * High-brightness white LEDs 10mm, 47Ω resistors
 
+![sketch](assets/PowerLED.png)
+![sketch](assets/slipring.png)
+
+The LED can be mounted on the rotating disk using a slip ring to prevent cable twisting.
+
+![sketch](assets/slipringuse.png)
 
 ###Sketch
 
 ![sketch](assets/kinetic_light_traces_xyz_labeled.svg)
+![sketch](assets/IMG_7651 copy.JPG)
+
+
+
+
+
+
+
+
+

@@ -31,6 +31,12 @@ The final design consists of four motorized arms, each carrying an LED module. A
 ![Modeling](assets/Model.png)
 ![Modeling](assets/Model1.png)
 
+### Mount desgin
+![Modeling](assets/IMG_7683 copy.JPG)
+![Modeling](assets/IMG_7691 copy.JPG)
+
+
+
 ## Implementation
 The final prototype was developed using the Stepdance framework running on a Teensy 4.1 microcontroller. The mechanical structure was constructed from repurposed components of a Creality Ender 3 FDM 3D printer, including linear motion elements, aluminum extrusions, and stepper motors. Four stepper motors were arranged in a radial configuration to create coordinated kinetic movements.
 
